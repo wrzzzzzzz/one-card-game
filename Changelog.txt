@@ -1,0 +1,26 @@
+#Changelog
+
+##[0.0.1]-2021-11-07
+
+###Added:
+card deck player structures
+function initializing and shuffling cards
+function to play cards
+function to draw cards
+the getopt file（reference: Jiache Zhang TA's lab）
+
+##[0.0.2]-2021-11-21
+
+###Added:
+function dealing cards
+function initializing the player linkedlist and deciding the first player
+function to restore the pile of cards
+function to store the cards
+the Makefile used for compilation
+
+###Changed:
+adjust the getopt to getopt_long and truly let it accept command line arguments
+revised some bugs in the functions completed last time
+add some fields to the player according to the linkedlist. Also, an extra card field is added.
+
+
